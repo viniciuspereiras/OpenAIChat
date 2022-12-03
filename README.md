@@ -1,5 +1,9 @@
-# OpenAIChat
-An unofficial, and completely bad client (keep in mind it's a weird way of doing this) to use OpenAI's chat in python, feel free to add it to your projects, implement speech recognition, text to speach and whatever something else you think is cool.
+![alt text](https://seeklogo.com/images/O/openai-logo-F97AAA4254-seeklogo.com.png)
+# OpenAI ChatGPT
+An unofficial, and completely bad client (keep in mind it's a weird way of doing this) to use OpenAI's Chat GPT in python, feel free to add it to your projects, implement speech recognition, text to speach and whatever something else you think is cool.
+
+# Examples
+![alt text](https://raw.githubusercontent.com/viniciuspereiras/OpenAIChat/main/who-areyou.png)
 
 # How to configure 
 - Open your burp suite browser, log into your account and go to chat page
