@@ -18,5 +18,5 @@ def scrap_response(response):
     index = text.rfind("{\"message")
     return json.loads(text[index:])
 
-elon_musk = scrap_response(do_request(record()))
+elon_musk = scrap_response(do_request(sys.argv[1]))
 print(elon_musk["message"]["content"]["parts"][0])
